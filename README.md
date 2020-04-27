@@ -1,2 +1,2 @@
 # ros-introduction
-Tutorial for the Robotik 1 course.
+Tutorial for the Robotics Design Lab 1 course.
